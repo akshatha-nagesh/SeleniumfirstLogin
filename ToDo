@@ -1,0 +1,5 @@
+launch http://automationpractice.com/index.php
+login with usname and password
+get the title of the page
+logout of browser
+close the browser
